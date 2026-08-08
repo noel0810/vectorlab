@@ -89,11 +89,10 @@ ul, ol { list-style: none; }
   font-family: "Poppins", sans-serif; font-weight: 800; font-size: 46px;
   color: rgba(255,255,255,.55); pointer-events: none;
 }
-.img-1 {
-background-image: url("images/hero-1.png");}
-.img-2 {background-image: url("images/hero-2.png");}
-.img-3 {background-image: url("images/hero-3.png");}
-.img-4 {background-image: url("images/hero-4.png");}
+.img-1 {background-image: url("images/hero-1.webp");}
+.img-2 {background-image: url("images/hero-2.webp");}
+.img-3 {background-image: url("images/hero-3.webp");}
+.img-4 {background-image: url("images/hero-4.webp");}
 
 .carousel-btn {
   position: absolute; top: 42%; z-index: 3; width: 40px; height: 40px;
@@ -163,17 +162,17 @@ background-image: url("images/hero-1.png");}
 .card-body p { font-size: 12.5px; color: var(--ink-soft); }
 
 /* placeholder gradients (swap with real images) */
-.svc-1 {background-image: url("images/service-1.png");}
-.svc-2 {background-image: url("images/service-2.png");}
-.svc-3 {background-image: url("images/service-3.png");}
-.svc-4 {background-image: url("images/service-4.png");}
-.svc-5 {background-image: url("images/service-5.png");}
+.svc-1 {background-image: url("images/service-1.webp");}
+.svc-2 {background-image: url("images/service-2.webp");}
+.svc-3 {background-image: url("images/service-3.webp");}
+.svc-4 {background-image: url("images/service-4.webp");}
+.svc-5 {background-image: url("images/service-5.webp");}
 
-.work-1 {background-image: url("images/work-1.png");}
-.work-2 {background-image: url("images/work-2.png");}
-.work-3 {background-image: url("images/work-3.png");}
-.work-4 {background-image: url("images/work-4.png");}
-.work-5 {background-image: url("images/work-5.png");}
+.work-1 {background-image: url("images/work-1.webp");}
+.work-2 {background-image: url("images/work-2.webp");}
+.work-3 {background-image: url("images/work-3.webp");}
+.work-4 {background-image: url("images/work-4.webp");}
+.work-5 {background-image: url("images/work-5.webp");}
 
 /* ===================== Process ===================== */
 .process { background: var(--dark); color: #cfcfcf; padding: 60px 0; }
